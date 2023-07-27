@@ -25,6 +25,6 @@
 </head>
 <body style="background-color: black;">
   <a href="" class="button"> <b> RUST </b></a>
-  <a href="" class="button"> <b> C++ </b></a>
+  <a href="https://github.com/nightwing098/nightwing098.github.io/blob/main/cpp.html" class="button"> <b> C++ </b></a>
 </body>
 </html>
