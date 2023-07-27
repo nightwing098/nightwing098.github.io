@@ -25,5 +25,6 @@
 </head>
 <body style="background-color: black;">
   <a href="" class="button"> <b> RUST </b></a>
+  <a href="" class="button"> <b> C++ </b></a>
 </body>
 </html>
