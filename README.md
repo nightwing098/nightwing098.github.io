@@ -12,12 +12,18 @@
       border-radius: 8px;
     }
 
-  .container {
+    .button:hover {
+      background-color: green;
+      color: black;
+    }
+
+    .container {
   text-align: center;
 }
+
   </style>
 </head>
 <body style="background-color: black;">
-  <a href="https://www.w3schools.com" class="button"> RUST </a>
+  <a href="https://www.w3schools.com" class="button"> <b> RUST </b></a>
 </body>
 </html>
