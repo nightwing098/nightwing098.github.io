@@ -12,10 +12,9 @@
       border-radius: 8px;
     }
 
-    .button:hover {
-      background-color: green;
-      color: black;
-    }
+  .container {
+  text-align: center;
+}
   </style>
 </head>
 <body style="background-color: black;">
