@@ -55,6 +55,11 @@ img {
 <h1 class="center">Welcome to RITESH YADAV's github.io page!</h1>
 
 <p class="center" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#000000'">You can visit my GitHub profile by clicking <a href="https://github.com/nightwing098">here</a>.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
 <script>
 // This is a JS script that shows the current date and time
 var date = new Date();
