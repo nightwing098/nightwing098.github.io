@@ -56,23 +56,13 @@ img {
 
 <p class="center" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#000000'">You can visit my GitHub profile by clicking <a href="https://github.com/nightwing098">here</a>.</p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div id="date-time" style="position:fixed; bottom:0; right:0;"></div>
 <script>
 // This is a JS script that shows the current date and time
 var date = new Date();
 var dateString = date.toLocaleDateString();
 var timeString = date.toLocaleTimeString();
-document.write("<p class='center'>The current date and time is: " + dateString + " " + timeString + "</p>"); >
-
+document.write("<p class='center'; align='bottom;'>The current date and time is: " + dateString + " " + timeString + "</p>");
 </script>
 </body>
 </html> 
