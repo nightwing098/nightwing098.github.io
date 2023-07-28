@@ -66,14 +66,13 @@ img {
 <br>
 <br>
 <br>
-<<p align="right 
 <script>
 // This is a JS script that shows the current date and time
 var date = new Date();
 var dateString = date.toLocaleDateString();
 var timeString = date.toLocaleTimeString();
 document.write("<p class='center'>The current date and time is: " + dateString + " " + timeString + "</p>"); >
-  </p>
+
 </script>
 </body>
 </html> 
